@@ -81,7 +81,7 @@ benchmarks/peakflops_exe.c
 
 benchmarks/avx_microkernel.c
 
-Energy Measurement
+## Energy Measurement
 Run-Level (LIKWID)
 ```bash
 likwid-perfctr -C 0-31 -g ENERGY -m -- ./triad_exe > results/energy_triad.txt
