@@ -278,16 +278,4 @@ This README is **long, detailed, and has anchor-friendly headings** (`## Results
 
 ---
 
-👉 Do you want me to also **draft the small code files** (`triad_exe.c`, `peakflops_exe.c`, `avx_microkernel.c`, `process_rapl.awk`) so you can add them into the repo and make the README fully executable?
-
-
-
-
-
-Ask ChatGPT
-
-
-
-
-
-ChatGPT can
+## Embodied Carbon Footprint
